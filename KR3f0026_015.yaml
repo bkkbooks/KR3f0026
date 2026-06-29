@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0026/krp/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 厯算全書卷十五
+  hash: sha256:9c630157d0b616dad30be131456cdca59048517bc6b92657f9ceddb0664d5e59
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0026_WYG_015-1a, image: WYG0794/WYG0794-0353a.png}
+metadata:
+  title: 歷算全書
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:10:11.097722'
+  juan_title: 卷十五
+  source:
+    repository: kanripo
+    path: KR3f0026/KR3f0026_015.txt
+hash: sha256:6295d0353277126a7b846c291ab115684b06ed78fa708e04598bca027534e6ca

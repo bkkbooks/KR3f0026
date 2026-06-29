@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0026/WYG/v1/juan/72
+seq: 72
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 少廣拾遺序少廣爲九章之一其開平方法爲薄海内外測量家所需非隸首不能作也平方而外有立方以爲鑿築土方之用課工作者猶能言之若三乗方以上知之者葢已尠矣嘗見九章比類厯宗算會算法統宗俱載有開方作法本原之圖而僅及五乗竝無算例同文算指稍變其圖具七乗方算法而不適於用詮釋不無譌誤西鏡録演其圖爲十乗方而舉數僅詳平立三乗一式而已餘皆未及康熙壬申余在都門有友人傳逺問屬詢四乗方十乗方法葢諸乗方法獨此二端不可以借用他法而問者及之竊喜朋儕中固自有留心學問之人遂稍取古圖紬繹發其指趣爲作十二乗方算例頗覺詳明然後知今日所用開平方法廼算數家徑捷之用而不及古圖之簡括精深也宣城梅文鼎
+  hash: sha256:acff7add813018256dd4c80942da4f48b47a07f15a86fdca1effe11abdfeb0e2
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0026_WYG_072-1a, image: WYG0795/WYG0795-0383a.png}
+metadata:
+  title: 歷算全書
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:10:11.097722'
+  juan_title: 少廣拾遺序
+  source:
+    repository: kanripo
+    path: KR3f0026/KR3f0026_072.txt
+hash: sha256:65e4f323749aa7d4e702246baff49d41dd62195b2ec4ce7ac18b492841543405

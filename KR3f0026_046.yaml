@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0026/krp/v1/juan/46
+seq: 46
+front:
+  text: 凡例
+  hash: sha256:60d11c54242d9355418a000d211f069247e3cd08794bf13518659c8bbc2aaf25
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0026_WYG_046-1a, image: WYG0794/WYG0794-0824c.png}
+body:
+  text: 按西士羅雅谷自序謂譯書草創潤色之增補之必有其時今之釋例不嫌小有同異所以相成當亦作書者之所欲得也比例規解原列十線為十種比例之法今仍之比例既有十種可各為一尺今總歸一尺者便攜也一尺中列十線則一尺而有十尺之用恐其不清故各線之端書某線以别之各線並從心起數惟立方線初㸃最大割線亦然又五金線之用近尺末故俱不到心以便他線之書字然其實並從心起算用者詳之尺心即尺端也兩尺端聫于樞心成一㸃故從兹起算
+  hash: sha256:2005a855bcd913c5d97ea4e3dac961b695e42166c0e07989602d1fb628845a1d
+metadata:
+  title: 歷算全書
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:10:11.097722'
+  juan_title: 凡例
+  source:
+    repository: kanripo
+    path: KR3f0026/KR3f0026_046.txt
+hash: sha256:3734bb48414a32028e8fcce5ce24e80dcfd9be1d31f9a615ba77611535b3ffce

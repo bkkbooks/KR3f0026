@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0026/krp/v1/juan/33
+seq: 33
+front:
+  text: 籌算自序唐有九執厯不用布算唯以筆記史謂其繁重其法不傳今西儒筆算或其遺意歟筆算之法詳見同文算指中厯書出乃有籌算其法與舊傳鋪地錦相似而加便捷又昔但以乘者今兼以除且益之開方諸率可謂盡變矣但本法橫書倣佛於珠算之位至於除法則實橫而商數縱頗難定位愚謂既用筆書宜一行直下為便輒以鄙意改用橫籌直寫而于定位之法尤加詳焉俾用者無復纎疑即不敢謂兼中西兩家之長而於籌算庶幾無憾矣康熙戊午九月已亥朔日躔在角宛陵梅文鼎勿菴撰
+  hash: sha256:59b794ddd5cddd421fe8abcbb6ec0cd90e06135d4f1031f994a01f58c05c40f8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0026_WYG_033-1a, image: WYG0794/WYG0794-0670c.png}
+body:
+  text: 籌算有數便奚囊逺涉便於佩帶一也所用乘除存諸片楮久可覆核二也斗室匡坐㸃筆徐觀諸數厯然人不能測三也布算未終無妨泛應前功可續四也乘除一理不須歌括五也尤便學習朝得暮能六也原法橫書故用直籌籌直則積數橫彼中文字實用橫書也今直書故用橫籌籌橫則積數直其理一也亦有數便自上而下乃中土筆墨之宜便寫一也兩半圓合一位便查數二也商數與實平行便定位三也
+  hash: sha256:127d74c29f556daf5ecd2341a9a6b626f6e3465312fcf97359cccde2b76bacf9
+metadata:
+  title: 歷算全書
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:10:11.097722'
+  juan_title: 籌算自序
+  source:
+    repository: kanripo
+    path: KR3f0026/KR3f0026_033.txt
+hash: sha256:57148f07f8d0cd9554b413478b97a5aa1c2a955cecfbd79a9d99cb44e912c085
